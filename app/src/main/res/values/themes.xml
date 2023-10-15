@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.CountryApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">#63BDB5</item>
+        <item name="colorPrimaryDark">#149186</item>
+        <item name="colorAccent">#D15D55</item>
+    </style>
+
+    <style name="Title">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+<style name="Text">
+    <item name="android:textSize">14sp</item>
+</style>
+    <style name="Theme.CountryApp" parent="Base.Theme.CountryApp" />
+</resources>
